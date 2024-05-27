@@ -1,0 +1,4 @@
+instagrapi
+Pillow==8.*
+moviepy
+python-dotenv
